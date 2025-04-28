@@ -1,0 +1,6 @@
+src/
+├── components/
+│   ├── TicketForm.jsx
+│   ├── TicketList.jsx
+├── App.jsx
+├── main.jsx
